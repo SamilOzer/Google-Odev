@@ -1,0 +1,76 @@
+.Logo {
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+}
+
+.logoimg{
+    margin-left: 140px;
+}
+
+.form {
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+
+.aramakutusu {
+    width: 250px;
+}
+
+.gonderbuton {
+    margin-left: 45px;
+    
+}
+
+.altbar {
+    height: 50px;
+}
+
+.altbar1 {
+    width: 40%;
+    float: left;
+    background-color: #7EE5DA;
+    height: 103.5px;
+    margin-right: 3px;
+}
+
+.altbar2 {
+    width: 19.5%;
+    float: left;
+    background-color: #70CCC2;
+    margin-right: 3px;
+}
+
+.altbar3 {
+    width: 40%;
+    float: left;
+    background-color: #62B3AA;
+    background-size: 20px;
+    height: 103.5px;
+}
+
+.liste {
+    list-style-type: none;
+    text-align: center;
+}
+.liste2 {
+    list-style-type: none;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.forum {
+
+    text-align: center;
+}
+
+.for {
+    margin-left: 150px;
+
+}
+ .fr {
+    margin-left: 175px;
+ }
